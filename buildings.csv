@@ -1,0 +1,9 @@
+building,type,area_sqm,capacity,base_kw,base_water_lph,solar_kwp
+Academic Block A,academic,6500,900,55,900,40
+Academic Block B,academic,5200,700,45,750,30
+Central Library,academic,3800,400,35,400,25
+CSE Labs,lab,3000,350,70,300,20
+Boys Hostel,hostel,8000,1200,60,4200,50
+Girls Hostel,hostel,6500,900,48,3400,40
+Cafeteria,dining,1800,600,40,2600,0
+Admin Block,admin,2500,150,25,250,15
